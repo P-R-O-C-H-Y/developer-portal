@@ -1,6 +1,6 @@
 ---
 title: "Getting Started with ESP32 Arduino"
-date: "2025-09-10"
+date: "2025-10-08"
 summary: "Learn how to set up the ESP32 Arduino Core development environment, including Arduino IDE installation and ESP32 board package setup using both the Board Manager and manual Git installation methods."
 authors:
   - "jan-prochazka"
